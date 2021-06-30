@@ -1,0 +1,13 @@
+E:\C#\Employee\EmployeeUC5\bin\Debug\netcoreapp3.1\EmployeeUC5.exe
+E:\C#\Employee\EmployeeUC5\bin\Debug\netcoreapp3.1\EmployeeUC5.deps.json
+E:\C#\Employee\EmployeeUC5\bin\Debug\netcoreapp3.1\EmployeeUC5.runtimeconfig.json
+E:\C#\Employee\EmployeeUC5\bin\Debug\netcoreapp3.1\EmployeeUC5.runtimeconfig.dev.json
+E:\C#\Employee\EmployeeUC5\bin\Debug\netcoreapp3.1\EmployeeUC5.dll
+E:\C#\Employee\EmployeeUC5\bin\Debug\netcoreapp3.1\EmployeeUC5.pdb
+E:\C#\Employee\EmployeeUC5\obj\Debug\netcoreapp3.1\EmployeeUC5.csproj.AssemblyReference.cache
+E:\C#\Employee\EmployeeUC5\obj\Debug\netcoreapp3.1\EmployeeUC5.AssemblyInfoInputs.cache
+E:\C#\Employee\EmployeeUC5\obj\Debug\netcoreapp3.1\EmployeeUC5.AssemblyInfo.cs
+E:\C#\Employee\EmployeeUC5\obj\Debug\netcoreapp3.1\EmployeeUC5.csproj.CoreCompileInputs.cache
+E:\C#\Employee\EmployeeUC5\obj\Debug\netcoreapp3.1\EmployeeUC5.dll
+E:\C#\Employee\EmployeeUC5\obj\Debug\netcoreapp3.1\EmployeeUC5.pdb
+E:\C#\Employee\EmployeeUC5\obj\Debug\netcoreapp3.1\EmployeeUC5.genruntimeconfig.cache
