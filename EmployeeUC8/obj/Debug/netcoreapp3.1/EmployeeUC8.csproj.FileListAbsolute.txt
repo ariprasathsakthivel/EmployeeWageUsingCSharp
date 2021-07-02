@@ -1,0 +1,12 @@
+E:\C#\Employee\EmployeeUC8\bin\Debug\netcoreapp3.1\EmployeeUC8.exe
+E:\C#\Employee\EmployeeUC8\bin\Debug\netcoreapp3.1\EmployeeUC8.deps.json
+E:\C#\Employee\EmployeeUC8\bin\Debug\netcoreapp3.1\EmployeeUC8.runtimeconfig.json
+E:\C#\Employee\EmployeeUC8\bin\Debug\netcoreapp3.1\EmployeeUC8.runtimeconfig.dev.json
+E:\C#\Employee\EmployeeUC8\bin\Debug\netcoreapp3.1\EmployeeUC8.dll
+E:\C#\Employee\EmployeeUC8\bin\Debug\netcoreapp3.1\EmployeeUC8.pdb
+E:\C#\Employee\EmployeeUC8\obj\Debug\netcoreapp3.1\EmployeeUC8.AssemblyInfoInputs.cache
+E:\C#\Employee\EmployeeUC8\obj\Debug\netcoreapp3.1\EmployeeUC8.AssemblyInfo.cs
+E:\C#\Employee\EmployeeUC8\obj\Debug\netcoreapp3.1\EmployeeUC8.csproj.CoreCompileInputs.cache
+E:\C#\Employee\EmployeeUC8\obj\Debug\netcoreapp3.1\EmployeeUC8.dll
+E:\C#\Employee\EmployeeUC8\obj\Debug\netcoreapp3.1\EmployeeUC8.pdb
+E:\C#\Employee\EmployeeUC8\obj\Debug\netcoreapp3.1\EmployeeUC8.genruntimeconfig.cache
